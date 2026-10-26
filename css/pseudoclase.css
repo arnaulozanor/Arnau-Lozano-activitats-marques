@@ -1,0 +1,20 @@
+a:visited{
+    color: crimson;
+}
+
+p:hover{
+    background-color: yellow;
+}
+
+a:active{
+    background-color: blue;
+}
+
+:checked {
+  height: 1050px;
+  width: 1050px;
+}
+
+ul:first-child{
+    background-color: aqua;
+}
